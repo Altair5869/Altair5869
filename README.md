@@ -11,7 +11,7 @@
 
 ## 👩‍💻 Contact me
 <br>
-<div>
+<div align = "center">
   <a href = https://instagram.com/tx_.hxn/> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
 </div>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/tx_.hxn)
