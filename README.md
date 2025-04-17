@@ -11,7 +11,7 @@
     <td><img src = "https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt = "_icon"/></td>
     <td rowspan="8"></td>
     <td rowspan="2" align="center"><b>Database</b></td>
-    <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) alt="_icon" /></td>
+    <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="_icon" /></td>
   </tr>
   <tr>
   <td><img src="https://seeklogo.com/images/R/redis-logo-E403D4DD6A-seeklogo.com.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Redis</td>
