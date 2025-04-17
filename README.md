@@ -13,6 +13,8 @@
 <br>
 <div align = "center">
   <a href = https://instagram.com/tx_.hxn/> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+    %nbsp;
   <a href = mailto:th053880@gmail.com/> <img src = "https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+    %nbsp;
   <a href = https://www.linkedin.com/in/taehun58/> <img src = "https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
 </div>
