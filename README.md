@@ -7,8 +7,9 @@
 ## 🛠 Tech Stacks
 | Language | Database | Infra | CI/CD |
 |----------|----------|-------|-------|
-| ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) <br> 
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) <br> 
+| ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+<br> 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) |
 
 
