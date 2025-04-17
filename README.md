@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td rowspan="2" align="center"><b>Language</td>
-    <td>[Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)</td>
+    <td><img src = "https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/></td>
     <td rowspan="8"></td>
     <td rowspan="2" align="center"><b>Database</b></td>
     <td><img src="https://user-images.githubusercontent.com/112257466/209078356-d9120e3d-9498-4ee4-a38d-139a263910f4.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>MySQL</td>
