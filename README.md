@@ -16,6 +16,6 @@
   <a href = mailto:th053880@gmail.com/> <img src = "https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
   <a href = https://www.linkedin.com/in/taehun58/> <img src = "https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
 </div>
-<br>
+
 ## 🏅 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Altair5869&show_icons=true&theme=dark)
