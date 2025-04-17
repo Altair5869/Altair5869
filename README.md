@@ -8,7 +8,7 @@
 | Language | Database | Infra | Framework | ORM |
 |----------|----------|-------|-----------|-----|
 | [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) <br> [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) <br> ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) | [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) <br> ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) <br> [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)| ![QueryDSL](https://img.shields.io/badge/QueryDSL-009688?style=flat)  <br> ![Data JPA](https://img.shields.io/badge/JPA-007396?style=flat&logo=hibernate&logoColor=white)
-<br>
+
 ## 👩‍💻 Contact me
 <br>
 <div align = "center">
