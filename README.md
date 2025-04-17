@@ -20,6 +20,4 @@
 ## 🏅 Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Altair5869&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Altair5869&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Altair5869&layout=compact&theme=dark)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Altair5869)
