@@ -20,4 +20,3 @@
 ## 🏅 Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Altair5869&show_icons=true&theme=dark)
-![Trophy](https://github-profile-trophy.vercel.app/?username=Altair5869)
