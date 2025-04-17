@@ -5,9 +5,9 @@
 - 효율적인 아키텍쳐를 설계하기 위해 끊임없이 수정하고 고민하는 것을 좋아합니다.
 
 ## 🛠 Tech Stacks
-| Language | Database | Infra | ORM | Framework |
-|----------|----------|-------|-----|-----------|
-| ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) <br> [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) <br> ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) <br> ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) <br> ![Data JPA](https://img.shields.io/badge/JPA-007396?style=flat&logo=hibernate&logoColor=white) | ![QueryDSL](https://img.shields.io/badge/QueryDSL-009688?style=flat) <br> ![MyBatis](https://img.shields.io/badge/MyBatis-0052CC?style=flat) |
+| Language | Database | Infra | Framework | ORM |
+|----------|----------|-------|-----------|-----|
+| ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) <br> [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) <br> ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) <br> ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) | ![QueryDSL](https://img.shields.io/badge/QueryDSL-009688?style=flat)  <br> ![Data JPA](https://img.shields.io/badge/JPA-007396?style=flat&logo=hibernate&logoColor=white)
 
 ## 👩‍💻 Contact me
 
