@@ -15,7 +15,7 @@
   <a href = https://instagram.com/tx_.hxn/> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   <a href = mailto:th053880@gmail.com/> <img src = "https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
   <a href = https://www.linkedin.com/in/taehun58/> <img src = "https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
-  <a href = https://velog.io/@th0538/> <img src = "https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/>
+  <a href = https://velog.io/@th0538/> <img src = "https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/>
 </div>
 
 ## 🏅 Stats
