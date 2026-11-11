@@ -18,5 +18,4 @@
   <a href = https://velog.io/@th0538/> <img src = "https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/>
 </div>
 
-## 🏅 Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Altair5869&show_icons=true&theme=dark)
+
